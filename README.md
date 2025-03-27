@@ -11,6 +11,7 @@ Link: [Working with o1, DeepSeek, and Gemini 2.0 Reasoning Capabilities](https:/
 - `notebooks/`: Jupyter notebooks for hands-on exercises
   - `assets-resources/`: Additional resources and reference materials
 - `presentation/`: Slides and presentation materials
+- `project-notes.md`: Notes and resources for the live course
 
 ## About This Course
 
