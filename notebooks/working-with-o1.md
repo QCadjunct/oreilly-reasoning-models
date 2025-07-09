@@ -6,8 +6,8 @@ def hybrid_workflow(complex_problem):
     
     Parameters:
     - complex_problem: str (Description of the problem to solve)
-    
     Returns:
+    
     - solution: dict containing the plan and execution results
     """
     # Step 1: Use reasoning model to create a detailed plan
@@ -180,11 +180,11 @@ def hybrid_workflow(complex_problem):
     ```
     
     This code:
-    1. Loads the CSV file
-    2. Identifies and handles missing values (using median for numeric, mode for categorical)
-    3. Normalizes numeric columns using StandardScaler
-    4. Identifies outliers using the IQR method and caps them at the boundaries
-    5. Outputs a cleaned dataset and creates visualizations to verify the cleaning process
+    6. Loads the CSV file
+    7. Identifies and handles missing values (using median for numeric, mode for categorical)
+    8. Normalizes numeric columns using StandardScaler
+    9. Identifies outliers using the IQR method and caps them at the boundaries
+    10. Outputs a cleaned dataset and creates visualizations to verify the cleaning process
     
     The code follows best practices with clear documentation, error handling, and informative logging.
     """
