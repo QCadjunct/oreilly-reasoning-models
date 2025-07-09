@@ -1,7 +1,4 @@
 ipykernel
-pandas
-numpy
-matplotlib
-seaborn
-tabulate
 openai
+anthropic
+docling
